@@ -1,0 +1,17 @@
+.navContainer {
+    background: var(--color-dark);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navBtns {
+    text-decoration: none;
+    padding: 20px;
+    color: var(--color-tan)
+}
+
+.searchBar {
+    float: right;
+}
